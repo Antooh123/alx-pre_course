@@ -1,1 +1,1 @@
-## This is my second read me file of the day
+## How to be up to date in git
